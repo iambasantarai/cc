@@ -64,7 +64,7 @@
 - [Seventh Semester](https://github.com/iambasanta/cc/tree/master/7th-sem)
 
   - [Advanced Java Programming](https://github.com/iambasanta/cc/tree/master/7th-sem/advJava)
-  - [Data Warehousing and Data Mining](#)
+  - [Data Warehousing and Data Mining](https://github.com/iambasanta/cc/tree/master/7th-sem/dwdm)
   - [Principles of Management](#)
   - [Project Work](#)
   - [Database Administration](#)
