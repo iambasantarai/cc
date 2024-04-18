@@ -9,7 +9,7 @@
 
 ## Table of Content
 
-- [First Semester](https://github.com/iambasanta/cc/tree/master/1st-sem)
+- [Semester I](https://github.com/iambasanta/cc/tree/master/1st-sem)
 
   - [Introduction to Information Technology]()
   - [C Programming](https://github.com/iambasanta/cc/tree/master/1st-sem/c)
@@ -17,7 +17,7 @@
   - [Mathematics I (Calculus)](#)
   - [Physics](#)
 
-- [Second Semester](https://github.com/iambasanta/cc/tree/master/2nd-sem)
+- [Semester II](https://github.com/iambasanta/cc/tree/master/2nd-sem)
 
   - [Discrete Structures](https://github.com/iambasanta/cc/tree/master/2nd-sem/ds)
   - [Object Oriented Programming](https://github.com/iambasanta/cc/tree/master/2nd-sem/cpp)
@@ -25,7 +25,7 @@
   - [Mathematics II](#)
   - [Statistics I](#)
 
-- [Third Semester](https://github.com/iambasanta/cc/tree/master/3rd-sem)
+- [Semester III](https://github.com/iambasanta/cc/tree/master/3rd-sem)
 
   - [Data Structures and Algorithms](https://github.com/iambasanta/cc/tree/master/3rd-sem/dsa)
   - [Numerical Method](https://github.com/iambasanta/cc/tree/master/3rd-sem/nm)
@@ -33,7 +33,7 @@
   - [Computer Graphics](https://github.com/iambasanta/cc/tree/master/3rd-sem/cg)
   - [Statistics II](#)
 
-- [Fourth Semester](https://github.com/iambasanta/cc/tree/master/4th-sem)
+- [Semester IV](https://github.com/iambasanta/cc/tree/master/4th-sem)
 
   - [Theory of Computation](https://github.com/iambasanta/cc/tree/master/4th-sem/toc)
   - [Computer Networks](https://github.com/iambasanta/cc/tree/master/4th-sem/cnlab)
@@ -41,7 +41,7 @@
   - [Database Management System](https://github.com/iambasanta/cc/tree/master/4th-sem/dbms)
   - [Artificial Intelligence](https://github.com/iambasanta/cc/tree/master/4th-sem/ai)
 
-- [Fifth Semester](https://github.com/iambasanta/cc/tree/master/5th-sem)
+- [Semester V](https://github.com/iambasanta/cc/tree/master/5th-sem)
 
   - [Design and Analysis of Algorithms](https://github.com/iambasanta/cc/tree/master/5th-sem/daa)
   - [System Analysis and Design](https://github.com/iambasanta/cc/tree/master/5th-sem/sad)
@@ -50,7 +50,7 @@
   - [Web Technology](https://github.com/iambasanta/cc/tree/master/5th-sem/web)
   - [Image Processing](https://github.com/iambasanta/cc/tree/master/5th-sem/ip) `elective`
 
-- [Sixth Semester](https://github.com/iambasanta/cc/tree/master/6th-sem)
+- [Semester VI](https://github.com/iambasanta/cc/tree/master/6th-sem)
 
   - [Software Engineering](#)
   - [Compiler Design and Construction](https://github.com/iambasanta/cc/tree/master/6th-sem/cdc)
@@ -59,7 +59,7 @@
   - [Technical Writing](#)
   - [E-commerce](https://github.com/iambasanta/khemate) `elective`
 
-- [Seventh Semester](https://github.com/iambasanta/cc/tree/master/7th-sem)
+- [Semester VII](https://github.com/iambasanta/cc/tree/master/7th-sem)
 
   - [Advanced Java Programming](https://github.com/iambasanta/cc/tree/master/7th-sem/advJava)
   - [Data Warehousing and Data Mining](https://github.com/iambasanta/cc/tree/master/7th-sem/dwdm)
@@ -67,7 +67,7 @@
   - [Project Work](#)
   - [Database Administration](#) `elective`
 
-- [Eighth Semester](https://github.com/iambasanta/cc/tree/master/8th-sem)
+- [Semester VIII](https://github.com/iambasanta/cc/tree/master/8th-sem)
 
   - [Advanced Database](https://github.com/iambasanta/cc/tree/master/8th-sem/advDB)
   - [Internship](#)
