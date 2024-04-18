@@ -48,8 +48,7 @@
   - [Cryptography](https://github.com/iambasanta/cc/tree/master/5th-sem/cryptography)
   - [Simulation and Modelling](https://github.com/iambasanta/cc/tree/master/5th-sem/sm)
   - [Web Technology](https://github.com/iambasanta/cc/tree/master/5th-sem/web)
-  - [Image Processing](https://github.com/iambasanta/cc/tree/master/5th-sem/ip)
-    `elective`
+  - [Image Processing](https://github.com/iambasanta/cc/tree/master/5th-sem/ip) `elective`
 
 - [Sixth Semester](https://github.com/iambasanta/cc/tree/master/6th-sem)
 
@@ -58,8 +57,7 @@
   - [E-Governance](#)
   - [NET centric Computing](https://github.com/iambasanta/cc/tree/master/6th-sem/netcentric)
   - [Technical Writing](#)
-  - [E-commerce](https://github.com/iambasanta/khemate)
-    `elective`
+  - [E-commerce](https://github.com/iambasanta/khemate) `elective`
 
 - [Seventh Semester](https://github.com/iambasanta/cc/tree/master/7th-sem)
 
@@ -67,5 +65,11 @@
   - [Data Warehousing and Data Mining](https://github.com/iambasanta/cc/tree/master/7th-sem/dwdm)
   - [Principles of Management](#)
   - [Project Work](#)
-  - [Database Administration](#)
-    `elective`
+  - [Database Administration](#) `elective`
+
+- [Eighth Semester](https://github.com/iambasanta/cc/tree/master/8th-sem)
+
+  - [Advanced Database](https://github.com/iambasanta/cc/tree/master/8th-sem/advDB)
+  - [Internship](#)
+  - [Introduction to Cloud Computing](#) `elective`
+  - [Network and System Administration](#) `elective`
