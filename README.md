@@ -71,5 +71,5 @@
 
   - [Advanced Database](https://github.com/iambasanta/cc/tree/master/8th-sem/advDB)
   - [Internship](#)
-  - [Introduction to Cloud Computing](#) `elective`
-  - [Network and System Administration](#) `elective`
+  - [Introduction to Cloud Computing](https://github.com/iambasanta/cc/tree/master/8th-sem/cloud-computing) `elective`
+  - [Network and System Administration](https://github.com/iambasanta/cc/tree/master/8th-sem/nsa) `elective`
