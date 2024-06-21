@@ -9,67 +9,67 @@
 
 ## Table of Content
 
-- [Semester I](https://github.com/iambasanta/cc/tree/master/1st-sem)
+- [Semester I](https://github.com/iambasantarai/cc/tree/master/1st-sem)
 
   - [Introduction to Information Technology]()
-  - [C Programming](https://github.com/iambasanta/cc/tree/master/1st-sem/c)
+  - [C Programming](https://github.com/iambasantarai/cc/tree/master/1st-sem/c)
   - [Digital Logics](#)
   - [Mathematics I (Calculus)](#)
   - [Physics](#)
 
-- [Semester II](https://github.com/iambasanta/cc/tree/master/2nd-sem)
+- [Semester II](https://github.com/iambasantarai/cc/tree/master/2nd-sem)
 
-  - [Discrete Structures](https://github.com/iambasanta/cc/tree/master/2nd-sem/ds)
-  - [Object Oriented Programming](https://github.com/iambasanta/cc/tree/master/2nd-sem/cpp)
+  - [Discrete Structures](https://github.com/iambasantarai/cc/tree/master/2nd-sem/ds)
+  - [Object Oriented Programming](https://github.com/iambasantarai/cc/tree/master/2nd-sem/cpp)
   - [Microprocessor](#)
   - [Mathematics II](#)
   - [Statistics I](#)
 
-- [Semester III](https://github.com/iambasanta/cc/tree/master/3rd-sem)
+- [Semester III](https://github.com/iambasantarai/cc/tree/master/3rd-sem)
 
-  - [Data Structures and Algorithms](https://github.com/iambasanta/cc/tree/master/3rd-sem/dsa)
-  - [Numerical Method](https://github.com/iambasanta/cc/tree/master/3rd-sem/nm)
-  - [Computer Architecture](https://github.com/iambasanta/cc/tree/master/3rd-sem/ca)
-  - [Computer Graphics](https://github.com/iambasanta/cc/tree/master/3rd-sem/cg)
+  - [Data Structures and Algorithms](https://github.com/iambasantarai/cc/tree/master/3rd-sem/dsa)
+  - [Numerical Method](https://github.com/iambasantarai/cc/tree/master/3rd-sem/nm)
+  - [Computer Architecture](https://github.com/iambasantarai/cc/tree/master/3rd-sem/ca)
+  - [Computer Graphics](https://github.com/iambasantarai/cc/tree/master/3rd-sem/cg)
   - [Statistics II](#)
 
-- [Semester IV](https://github.com/iambasanta/cc/tree/master/4th-sem)
+- [Semester IV](https://github.com/iambasantarai/cc/tree/master/4th-sem)
 
-  - [Theory of Computation](https://github.com/iambasanta/cc/tree/master/4th-sem/toc)
-  - [Computer Networks](https://github.com/iambasanta/cc/tree/master/4th-sem/cnlab)
-  - [Operating Systems](https://github.com/iambasanta/cc/tree/master/4th-sem/os)
-  - [Database Management System](https://github.com/iambasanta/cc/tree/master/4th-sem/dbms)
-  - [Artificial Intelligence](https://github.com/iambasanta/cc/tree/master/4th-sem/ai)
+  - [Theory of Computation](https://github.com/iambasantarai/cc/tree/master/4th-sem/toc)
+  - [Computer Networks](https://github.com/iambasantarai/cc/tree/master/4th-sem/cnlab)
+  - [Operating Systems](https://github.com/iambasantarai/cc/tree/master/4th-sem/os)
+  - [Database Management System](https://github.com/iambasantarai/cc/tree/master/4th-sem/dbms)
+  - [Artificial Intelligence](https://github.com/iambasantarai/cc/tree/master/4th-sem/ai)
 
-- [Semester V](https://github.com/iambasanta/cc/tree/master/5th-sem)
+- [Semester V](https://github.com/iambasantarai/cc/tree/master/5th-sem)
 
-  - [Design and Analysis of Algorithms](https://github.com/iambasanta/cc/tree/master/5th-sem/daa)
-  - [System Analysis and Design](https://github.com/iambasanta/cc/tree/master/5th-sem/sad)
-  - [Cryptography](https://github.com/iambasanta/cc/tree/master/5th-sem/cryptography)
-  - [Simulation and Modelling](https://github.com/iambasanta/cc/tree/master/5th-sem/sm)
-  - [Web Technology](https://github.com/iambasanta/cc/tree/master/5th-sem/web)
-  - [Image Processing](https://github.com/iambasanta/cc/tree/master/5th-sem/ip) `elective`
+  - [Design and Analysis of Algorithms](https://github.com/iambasantarai/cc/tree/master/5th-sem/daa)
+  - [System Analysis and Design](https://github.com/iambasantarai/cc/tree/master/5th-sem/sad)
+  - [Cryptography](https://github.com/iambasantarai/cc/tree/master/5th-sem/cryptography)
+  - [Simulation and Modelling](https://github.com/iambasantarai/cc/tree/master/5th-sem/sm)
+  - [Web Technology](https://github.com/iambasantarai/cc/tree/master/5th-sem/web)
+  - [Image Processing](https://github.com/iambasantarai/cc/tree/master/5th-sem/ip) `elective`
 
-- [Semester VI](https://github.com/iambasanta/cc/tree/master/6th-sem)
+- [Semester VI](https://github.com/iambasantarai/cc/tree/master/6th-sem)
 
   - [Software Engineering](#)
-  - [Compiler Design and Construction](https://github.com/iambasanta/cc/tree/master/6th-sem/cdc)
+  - [Compiler Design and Construction](https://github.com/iambasantarai/cc/tree/master/6th-sem/cdc)
   - [E-Governance](#)
-  - [NET centric Computing](https://github.com/iambasanta/cc/tree/master/6th-sem/netcentric)
+  - [NET centric Computing](https://github.com/iambasantarai/cc/tree/master/6th-sem/netcentric)
   - [Technical Writing](#)
-  - [E-commerce](https://github.com/iambasanta/khemate) `elective`
+  - [E-commerce](https://github.com/iambasantarai/khemate) `elective`
 
-- [Semester VII](https://github.com/iambasanta/cc/tree/master/7th-sem)
+- [Semester VII](https://github.com/iambasantarai/cc/tree/master/7th-sem)
 
-  - [Advanced Java Programming](https://github.com/iambasanta/cc/tree/master/7th-sem/advJava)
-  - [Data Warehousing and Data Mining](https://github.com/iambasanta/cc/tree/master/7th-sem/dwdm)
+  - [Advanced Java Programming](https://github.com/iambasantarai/cc/tree/master/7th-sem/advJava)
+  - [Data Warehousing and Data Mining](https://github.com/iambasantarai/cc/tree/master/7th-sem/dwdm)
   - [Principles of Management](#)
   - [Project Work](#)
   - [Database Administration](#) `elective`
 
-- [Semester VIII](https://github.com/iambasanta/cc/tree/master/8th-sem)
+- [Semester VIII](https://github.com/iambasantarai/cc/tree/master/8th-sem)
 
-  - [Advanced Database](https://github.com/iambasanta/cc/tree/master/8th-sem/advDB)
-  - [Internship](#)
-  - [Introduction to Cloud Computing](https://github.com/iambasanta/cc/tree/master/8th-sem/cloud-computing) `elective`
-  - [Network and System Administration](https://github.com/iambasanta/cc/tree/master/8th-sem/nsa) `elective`
+  - [Advanced Database](https://github.com/iambasantarai/cc/tree/master/8th-sem/advDB)
+  - [Internship](https://github.com/iambasantarai/cc/tree/master/8th-sem/internship)
+  - [Introduction to Cloud Computing](https://github.com/iambasantarai/cc/tree/master/8th-sem/cloud-computing) `elective`
+  - [Network and System Administration](https://github.com/iambasantarai/cc/tree/master/8th-sem/nsa) `elective`
